@@ -8,6 +8,5 @@ int main() {
     const string c = "Hello";  // hằng số chuỗi (String)
 
     cout << a << ", " << b << ", " << c;
-
     return 0;
 }
