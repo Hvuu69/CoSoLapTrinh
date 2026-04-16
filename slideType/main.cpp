@@ -91,7 +91,14 @@ using namespace std;
 //     return 0;
 // }
 
-
+//39
+// #include <time.h>
+// int main() {
+//     time_t current_time;
+//     time(&current_time);
+//     printf("Current_time: %s", ctime(&current_time));
+//     return 0;
+// }
 
 
 
