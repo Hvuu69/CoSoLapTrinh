@@ -17,11 +17,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89cadf76-a5ea-455a-aef2-3fc34d2bfc33" name="Changes" comment="ExamChapter_2">
-      <change afterPath="$PROJECT_DIR$/Chapter 3/ExTwo/main.cpp" afterDir="false" />
+    <list default="true" id="89cadf76-a5ea-455a-aef2-3fc34d2bfc33" name="Changes" comment="Luyện tập 9 Chapter 6">
+      <change afterPath="$PROJECT_DIR$/Chapter 6/ExEight/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/ExFive/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/ExSeven/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/ExSeven/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/ExSix/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/practive10/ExFour/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/practive10/ExOne/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/practive10/ExThree/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/practive10/ExTwo/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 3/ExOne/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3/ExOne/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slideType/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/slideType/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 6/ExOne/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 6/ExOne/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +63,17 @@
     <commands />
     <urls />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3CHmU7yAlBUu1mpjmQvLqiuirNr" />
+  <component name="ProjectStatusUIService"><![CDATA[{
+  "uiKindId": "Widget"
+}]]></component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -95,53 +108,56 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Clion\Git Repo C++\Chapter 5\ExOne" />
+      <recent name="D:\Clion\Git Repo C++\Chapter 4\ExOne" />
       <recent name="D:\Clion\Git Repo C++\Chapter 3\ExOne" />
       <recent name="D:\Clion\Git Repo C++\Chapter 2" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.main.cpp">
+  <component name="RunManager" selected="C/C++ File.main.cpp (4)">
     <configuration name="main.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git Repo C++" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="Chapter 3\ExOne\main.cpp" />
+      <option name="sourceFile" value="Chapter 6\ExSix\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="main.cpp (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git Repo C++" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="Chapter 3\main.cpp" />
+      <option name="sourceFile" value="Chapter 6\practive10\ExThree\main.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.cpp (3)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git Repo C++" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
+      <option name="sourceFile" value="Chapter 6\practive10\ExTwo\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="main.cpp (4)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git Repo C++" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="Chapter 3\ExTwo\main.cpp" />
+      <option name="sourceFile" value="Chapter 6\practive10\ExFour\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="main.cpp (5)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git Repo C++" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="slideType\main.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git Repo C++" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="Chapter 4\main.cpp" />
+      <option name="sourceFile" value="Chapter 6\practive10\ExOne\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.main.cpp" />
         <item itemvalue="C/C++ File.main.cpp (4)" />
+        <item itemvalue="C/C++ File.main.cpp (2)" />
+        <item itemvalue="C/C++ File.main.cpp (3)" />
         <item itemvalue="C/C++ File.main.cpp (5)" />
         <item itemvalue="C/C++ File.main.cpp (1)" />
-        <item itemvalue="C/C++ File.main.cpp (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +178,16 @@
       <workItem from="1776221937566" duration="6072000" />
       <workItem from="1776259427762" duration="509000" />
       <workItem from="1776307327978" duration="9435000" />
+      <workItem from="1776597700636" duration="782000" />
+      <workItem from="1776653104991" duration="8209000" />
+      <workItem from="1776690135096" duration="761000" />
+      <workItem from="1776739447266" duration="9192000" />
+      <workItem from="1776782860966" duration="108000" />
+      <workItem from="1776826728321" duration="6453000" />
+      <workItem from="1776868347751" duration="562000" />
+      <workItem from="1776912465829" duration="1378000" />
+      <workItem from="1776914606482" duration="6773000" />
+      <workItem from="1776995210633" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="ExamChapter_2">
       <option name="closed" value="true" />
@@ -187,7 +213,31 @@
       <option name="project" value="LOCAL" />
       <updated>1776311161772</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chapter 4 + chapter 5">
+      <option name="closed" value="true" />
+      <created>1776690844073</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776690844073</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Luyện tập 8 Chapter 5">
+      <option name="closed" value="true" />
+      <created>1776782951138</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776782951138</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Luyện tập 9 Chapter 6">
+      <option name="closed" value="true" />
+      <created>1776868903796</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776868903796</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +245,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ExamChapter_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ExamChapter_2" />
+    <MESSAGE value="Chapter 4 + chapter 5" />
+    <MESSAGE value="Luyện tập 8 Chapter 5" />
+    <MESSAGE value="Luyện tập 9 Chapter 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Luyện tập 9 Chapter 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -206,5 +259,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
