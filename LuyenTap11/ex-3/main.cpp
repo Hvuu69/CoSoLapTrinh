@@ -1,15 +1,14 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 
 int main() {
-    int n, tong = 0;
-    cout << "Nhap N: ";
-    cin >> n;
+    int n, i, tong = 0;
+    printf("Nhap N: ");
+    scanf("%d", &n);
 
-    for (int i = 1; i <= n; i++) {
+    for (i = 1; i <= n; i++) {
         tong += (2 * i - 1);
     }
 
-    cout << "Tong cua " << n << " so le dau tien la: " << tong;
+    printf("Tong cua %d so le dau tien la: %d\n", n, tong);
     return 0;
 }

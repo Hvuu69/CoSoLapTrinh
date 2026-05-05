@@ -1,5 +1,4 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 
 long long tinhTongDeQuy(int n) {
     if (n == 1) return 1;
@@ -8,13 +7,13 @@ long long tinhTongDeQuy(int n) {
 
 int main() {
     int n;
-    cout << "Nhap n: ";
-    cin >> n;
+    printf("Nhap n: ");
+    scanf("%d", &n);
 
     if (n <= 0) {
-        cout << "Vui long nhap n > 0";
+        printf("Vui long nhap n > 0\n");
     } else {
-        cout << "Tong S (dung de quy) la: " << tinhTongDeQuy(n);
+        printf("Tong S (dung de quy) la: %lld\n", tinhTongDeQuy(n));
     }
 
     return 0;

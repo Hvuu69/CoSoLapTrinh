@@ -1,23 +1,22 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 
 int main() {
     float diem;
-    cout << "Nhap diem (0 - 10): ";
-    cin >> diem;
+    printf("Nhap diem (0 - 10): ");
+    scanf("%f", &diem);
 
     if (diem < 0 || diem > 10) {
-        cout << "Diem khong hop le!";
+        printf("Diem khong hop le!\n");
     } else if (diem >= 9) {
-        cout << "Xep loai: Xuat sac";
+        printf("Xep loai: Xuat sac\n");
     } else if (diem >= 8) {
-        cout << "Xep loai: Gioi";
+        printf("Xep loai: Gioi\n");
     } else if (diem >= 6.5) {
-        cout << "Xep loai: Kha";
+        printf("Xep loai: Kha\n");
     } else if (diem >= 5) {
-        cout << "Xep loai: Trung binh";
+        printf("Xep loai: Trung binh\n");
     } else {
-        cout << "Xep loai: Yeu";
+        printf("Xep loai: Yeu\n");
     }
 
     return 0;

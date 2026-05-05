@@ -1,16 +1,15 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 
 int main() {
-    int n;
+    int n, i;
     long long s = 0;
-    cout << "Nhap n: ";
-    cin >> n;
+    printf("Nhap n: ");
+    scanf("%d", &n);
 
-    for (int i = 1; i <= n; i++) {
+    for (i = 1; i <= n; i++) {
         s += (long long)i * i;
     }
 
-    cout << "Tong S = 1^2 + 2^2 + ... + " << n << "^2 la: " << s;
+    printf("Tong S = 1^2 + 2^2 + ... + %d^2 la: %lld\n", n, s);
     return 0;
 }

@@ -1,30 +1,33 @@
-#include <iostream>
-#include <string>
-using namespace std;
+#include <stdio.h>
+#include <string.h>
 
 struct Product {
-    string name;
+    char name[50];
     double price;
 };
 
 int main() {
-    Product p1, p2;
+    struct Product p1, p2;
 
-    cout << "Nhap thong tin san pham 1:" << endl;
-    cout << "Ten: "; cin.ignore(); getline(cin, p1.name);
-    cout << "Gia: "; cin >> p1.price;
+    printf("Nhap thong tin san pham 1:\n");
+    printf("Ten: ");
+    scanf(" %[^\n]", p1.name); 
+    printf("Gia: ");
+    scanf("%lf", &p1.price);
 
-    cout << "Nhap thong tin san pham 2:" << endl;
-    cout << "Ten: "; cin.ignore(); getline(cin, p2.name);
-    cout << "Gia: "; cin >> p2.price;
+    printf("Nhap thong tin san pham 2:\n");
+    printf("Ten: ");
+    scanf(" %[^\n]", p2.name);
+    printf("Gia: ");
+    scanf("%lf", &p2.price);
 
-    cout << "\n--- Ket qua so sanh ---" << endl;
+    printf("\n--- Ket qua so sanh ---\n");
     if (p1.price > p2.price) {
-        cout << p1.name << " co gia cao hon " << p2.name;
+        printf("%s co gia cao hon %s\n", p1.name, p2.name);
     } else if (p1.price < p2.price) {
-        cout << p2.name << " co gia cao hon " << p1.name;
+        printf("%s co gia cao hon %s\n", p2.name, p1.name);
     } else {
-        cout << "Hai san pham bang gia nhau.";
+        printf("Hai san pham bang gia nhau.\n");
     }
 
     return 0;
