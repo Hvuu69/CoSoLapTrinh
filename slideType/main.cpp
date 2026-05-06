@@ -2,8 +2,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main()
-{
+int main() {
     int n, i;
     int laSNT = 1;
 
@@ -22,6 +21,7 @@ int main()
             }
         }
     }
+
     if(laSNT)
         printf ("la so nguyen to.\n", n);
     else

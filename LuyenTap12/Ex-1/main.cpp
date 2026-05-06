@@ -12,7 +12,6 @@ int main() {
             tong += i;
         }
     }
-
     printf("Tong cac so thoa man dieu kien la: %ld\n", tong);
     return 0;
 }

@@ -17,18 +17,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89cadf76-a5ea-455a-aef2-3fc34d2bfc33" name="Changes" comment="Luyện tập 9 Chapter 6">
-      <change afterPath="$PROJECT_DIR$/Chapter 6/ExEight/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 6/ExFive/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 6/ExSeven/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 6/ExSeven/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 6/ExSix/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 6/practive10/ExFour/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 6/practive10/ExOne/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 6/practive10/ExThree/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 6/practive10/ExTwo/main.cpp" afterDir="false" />
+    <list default="true" id="89cadf76-a5ea-455a-aef2-3fc34d2bfc33" name="Changes" comment="Luyện tập 12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 6/ExOne/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 6/ExOne/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuyenTap12/Ex-1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LuyenTap12/Ex-1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuyenTap12/ex-5/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LuyenTap12/ex-5/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slideType/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/slideType/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +64,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3CHmU7yAlBUu1mpjmQvLqiuirNr" />
-  <component name="ProjectStatusUIService"><![CDATA[{
-  "uiKindId": "Widget"
-}]]></component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -114,49 +107,50 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Clion\Git Repo C++\LuyenTap12\ex-5" />
+      <recent name="D:\Clion\Git Repo C++\LuyenTap12\ex-3" />
+      <recent name="D:\Clion\Git Repo C++\Chapter 6\practive10\ExThree" />
       <recent name="D:\Clion\Git Repo C++\Chapter 5\ExOne" />
       <recent name="D:\Clion\Git Repo C++\Chapter 4\ExOne" />
-      <recent name="D:\Clion\Git Repo C++\Chapter 3\ExOne" />
-      <recent name="D:\Clion\Git Repo C++\Chapter 2" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.main.cpp (4)">
+  <component name="RunManager" selected="C/C++ File.main.cpp (2)">
     <configuration name="main.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git Repo C++" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="Chapter 6\ExSix\main.cpp" />
+      <option name="sourceFile" value="LuyenTap12\ex-5\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="main.cpp (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git Repo C++" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="Chapter 6\practive10\ExThree\main.cpp" />
+      <option name="sourceFile" value="LuyenTap12\ex-7\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="main.cpp (3)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git Repo C++" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="Chapter 6\practive10\ExTwo\main.cpp" />
+      <option name="sourceFile" value="LuyenTap12\ex-6\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="main.cpp (4)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git Repo C++" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="Chapter 6\practive10\ExFour\main.cpp" />
+      <option name="sourceFile" value="LuyenTap12\ex-3\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="main.cpp (5)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git Repo C++" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="Chapter 6\practive10\ExOne\main.cpp" />
+      <option name="sourceFile" value="LuyenTap11\ex-7\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.main.cpp (4)" />
         <item itemvalue="C/C++ File.main.cpp (2)" />
         <item itemvalue="C/C++ File.main.cpp (3)" />
         <item itemvalue="C/C++ File.main.cpp (5)" />
+        <item itemvalue="C/C++ File.main.cpp (4)" />
         <item itemvalue="C/C++ File.main.cpp (1)" />
       </list>
     </recent_temporary>
@@ -187,7 +181,13 @@
       <workItem from="1776868347751" duration="562000" />
       <workItem from="1776912465829" duration="1378000" />
       <workItem from="1776914606482" duration="6773000" />
-      <workItem from="1776995210633" duration="312000" />
+      <workItem from="1776995210633" duration="397000" />
+      <workItem from="1776998805823" duration="435000" />
+      <workItem from="1777002164019" duration="1810000" />
+      <workItem from="1777945586395" duration="1216000" />
+      <workItem from="1777949185595" duration="8829000" />
+      <workItem from="1777987580646" duration="2275000" />
+      <workItem from="1778038092292" duration="6231000" />
     </task>
     <task id="LOCAL-00001" summary="ExamChapter_2">
       <option name="closed" value="true" />
@@ -237,7 +237,39 @@
       <option name="project" value="LOCAL" />
       <updated>1776868903796</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Luyện tập 10 Chapter 6">
+      <option name="closed" value="true" />
+      <created>1776995567475</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776995567475</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Luyện tập 11">
+      <option name="closed" value="true" />
+      <created>1777946804847</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1777946804848</updated>
+    </task>
+    <task id="LOCAL-00009" summary="img">
+      <option name="closed" value="true" />
+      <created>1777951348676</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1777951348676</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Luyện tập 12">
+      <option name="closed" value="true" />
+      <created>1777988052566</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1777988052566</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +280,11 @@
     <MESSAGE value="Chapter 4 + chapter 5" />
     <MESSAGE value="Luyện tập 8 Chapter 5" />
     <MESSAGE value="Luyện tập 9 Chapter 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Luyện tập 9 Chapter 6" />
+    <MESSAGE value="Luyện tập 10 Chapter 6" />
+    <MESSAGE value="Luyện tập 11" />
+    <MESSAGE value="img" />
+    <MESSAGE value="Luyện tập 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Luyện tập 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

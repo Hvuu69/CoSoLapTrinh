@@ -12,7 +12,6 @@ void sapXepGiamDan(int arr[], int n) {
         }
     }
 }
-
 void inMang(int arr[], int n) {
     for (int i = 0; i < n; i++) {
         printf("%d ", arr[i]);
